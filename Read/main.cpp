@@ -10,6 +10,7 @@ extern "C"
 int main()
 {
 	lua_State* L = luaL_newstate();
+	printf("Test %s", LUA_RELEASE);
 	system("pause");
 	return 0;
 }
