@@ -6,5 +6,5 @@ LuaDLL/x64/
 LuaDLL/x86/
 LuaDLL/Win32/
 .vs/
-*.vcxproj
-*.filters
+Read/Read.vcxproj
+LuaDLL/LuaDLL.vcxproj
