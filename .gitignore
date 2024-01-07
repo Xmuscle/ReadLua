@@ -7,3 +7,4 @@ LuaDLL/x86/
 LuaDLL/Win32/
 .vs/
 *.vcxproj
+*.filters
